@@ -35,7 +35,7 @@ def contador(i, f, p):
 #Programa principal
 contador(1, 10, 1)
 contador(10, 0, 2)
-print('Digite a contagem desejada: ')
+print('Digite a contagem desejada')
 ini = int(input('Início: '))
 fim = int(input('Fim: '))
 passo = int(input('Passo: '))
