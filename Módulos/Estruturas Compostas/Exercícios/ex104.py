@@ -18,5 +18,5 @@ def leiaInt(msg):
     return valor
 
 
-num = leiaInt('Digite um número: ')
+num = leiaInt('Digite um número inteiro: ')
 print(f'O número digitado foi {num}')
